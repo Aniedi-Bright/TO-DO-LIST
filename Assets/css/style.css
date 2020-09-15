@@ -1,0 +1,21 @@
+#btn{
+    background-color: lightgrey;
+    color: white;
+    border: none;
+    
+}
+body{
+    padding-top:  6em;
+
+    font-size: larger;
+    font-family: monospace;
+    background-image: url('/Assets/img/pic.jpg');
+}
+ol{
+    font-family: 'Courier New';
+    font-style: bold;
+    text-align: center;
+}
+h1{
+    padding-bottom: 1em;
+}
